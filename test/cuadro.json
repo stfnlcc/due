@@ -1,0 +1,26 @@
+[
+    {
+        "isrc": "ES1234567890",
+        "name": "Guernica",
+        "artistas": "Pablo Picasso",
+        "genre": "Cubismo",
+        "lineCYear": 1937,
+        "lineCPublisher": "Reina Sofia, Madrid"
+    },
+    {
+        "isrc": "ES1234567891",
+        "name": "Les nymphéas",
+        "artistas": "Claude Monet",
+        "genre": "Impresionismo",
+        "lineCYear": 1920,
+        "lineCPublisher": "Orangerie de las Tullerías, Paris"
+    },
+    {
+        "isrc": "ES1234567892",
+        "name": "Le muse inquietanti",
+        "artistas": "Giorgio De Chirico",
+        "genre": "Metafisica",
+        "lineCYear": 1916,
+        "lineCPublisher": "Collezione privata, Milano"
+    }
+]
